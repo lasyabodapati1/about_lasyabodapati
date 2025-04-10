@@ -53,5 +53,5 @@ Making dashboards speak, code automate, and insights drive action
 
 ## Data Visualization and Dashboards 
 KPI SuperStore using Tableau 
-[Repo](https://github.com/yourname/global-superstore-dashboard)
+[Repo](https://github.com/lasyabodapati1/global-superstore-dashboard)
 
