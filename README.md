@@ -3,7 +3,7 @@
 <h1 align="center"> I'm Lasya Bodapati</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=24&pause=1000&color=2F74C0&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Storyteller+%7C+AI+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=24&pause=1000&color=2F74C0&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Storyteller+%7C" alt="Typing SVG" />
 </p>
 
 ---
