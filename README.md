@@ -51,7 +51,11 @@ Making dashboards speak, code automate, and insights drive action
 </p>
 ---
 
-## Data Visualization and Dashboards 
+## Retail Industry
 KPI SuperStore using Tableau 
 [Repo](https://github.com/lasyabodapati1/global-superstore-dashboard)
+
+## Finance Industry 
+Research Project: Financial Literacy Among Working Individuals in India 
+[Repo](https://github.com/lasyabodapati1/Finance)
 
