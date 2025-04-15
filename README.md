@@ -40,22 +40,18 @@ Making dashboards speak, code automate, and insights drive action
 - lasyabodapati1966@gmail.com  
 
 ## Projects I've Worked On
-<p align="center">
-  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Tableau-Dashboard-blue?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-Analysis-green?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-Modeling-blueviolet?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-Queries-orange?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
 ---
 
-## Retail Industry
-KPI SuperStore using Tableau 
+## Machine Learning, Natural Language Processing Projects 
+***- British Airways Data Science Simulation Internship***
+[Repo](https://github.com/lasyabodapati1/British-Airways-Data-Science-Internship/blob/main/README.md)
+
+## Data Vizualization Projects using Tableau
+***- KPI SuperStore using Tableau*** 
 [Repo](https://github.com/lasyabodapati1/global-superstore-dashboard)
 
-## Finance Industry 
-Research Project: Financial Literacy Among Working Individuals in India 
+## Research Projects using Primary Data 
+***- Financial Literacy Among Working Individuals in India***
 [Repo](https://github.com/lasyabodapati1/Finance)
 
