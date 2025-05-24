@@ -32,6 +32,8 @@ Making dashboards speak, code automate, and insights drive action
 - Training models, writing clean code in Python/R  
 - Teaching and mentoring in AI and analytics  
 
+## Check out my 100 Day Progress to becoming a Python Pro! 
+
 ---
 
 ## Let's Connect
