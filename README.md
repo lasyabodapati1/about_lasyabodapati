@@ -33,7 +33,7 @@ Making dashboards speak, code automate, and insights drive action
 - Teaching and mentoring in AI and analytics  
 
 ## Check out my 100 Day Progress to becoming a Python Pro! 
-
+[100_Projects](https://github.com/lasyabodapati1/100daypython/tree/main)
 ---
 
 ## Let's Connect
